@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P06",
+  "repository": "icb-p06-recognising-prior-non-formal-learning-credentials",
+  "repository_url": "https://github.com/ICoBC/icb-p06-recognising-prior-non-formal-learning-credentials",
+  "title": "Recognising Prior and Non-formal Learning with Credentials",
+  "subtitle": "Routes that credential what people already know.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Assessment and evidence",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-ASMT-L3-A",
+  "badge_name": "Recognising Prior and Non-formal Learning with Credentials (Ability, L3)",
+  "hours": "8",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p06/",
+  "parts": [
+    "About this course",
+    "Why RPL matters",
+    "RPL models",
+    "Evidence and judgement",
+    "Candidate support",
+    "Policy and funding",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
